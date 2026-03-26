@@ -1,13 +1,11 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2CF&background=4A30F21A&center=true&vCenter=true&width=800&lines=Hola!+Soy+Jos%C3%A9%2C+desarrollador+web+de+Venezuela;Transformo+ideas+en+c%C3%B3digo+funcional+y+atractivo;Me+gusta+el+SynthWave+y+los+videojuegos;Amante+de+Vue.js)](https://git.io/typing-svg)
-
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseXP7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=es&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseXP7&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JoseXP7&theme=dracula&margin-w=8&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JStarWave84&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JStarWave84&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JStarWave84&theme=dracula&margin-w=8&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -56,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoseXP7/JoseXP7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JStarWave84/JStarWave84/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -70,6 +68,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JoseXP7.JoseXP7&left_color=black&right_color=darkviolet"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JStarWave84.JStarWave84&left_color=black&right_color=darkviolet"  />
 
 ###
